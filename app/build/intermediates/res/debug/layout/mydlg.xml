@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="41dp"
+        android:text="請輸入玩家姓名"
+        android:textSize="35dp" />
+
+    <Button
+        android:id="@+id/butOk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView1"
+        android:layout_below="@+id/editText1"
+        android:layout_marginTop="22dp"
+        android:text="確定輸入" />
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="35dp"
+        android:ems="10" />
+
+    <Button
+        android:id="@+id/butCancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/butOk"
+        android:layout_alignBottom="@+id/butOk"
+        android:layout_alignRight="@+id/editText1"
+        android:layout_marginRight="14dp"
+        android:minHeight="50dp"
+        android:minWidth="100dp"
+        android:scrollHorizontally="false"
+        android:text="取消" />
+
+</RelativeLayout><!-- From: file:/C:/Users/Admin/AndroidStudioProjects/homework42/app/src/main/res/layout/mydlg.xml -->

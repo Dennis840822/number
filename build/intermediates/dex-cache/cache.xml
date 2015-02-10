@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Admin\AndroidStudioProjects\homework42\app\libs\bolts-android-1.1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e61e3dfc57eaa5c97f9e7061db5608fc7d02d39e">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\homework42\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.3-0210c50efe0ca118333d7842f322987f8f5a3a01.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\AndroidStudioProjects\homework42\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\homework42\app\build\intermediates\pre-dexed\debug\classes-8321356630d14eebdbe0e06fd65c94a8994a8afa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\AndroidStudioProjects\homework42\app\libs\Parse-1.7.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="87c45f9f66da531a65f065ee32f603c7e6db1528">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\homework42\app\build\intermediates\pre-dexed\debug\Parse-1.7.1-5c9d30a0b1c2ce270fafcef175f568a3d74a7528.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\homework42\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-d817c4c5018f3e549b2d922865ff31464a26ccc2.jar" />
+    </item>
+
+</items>

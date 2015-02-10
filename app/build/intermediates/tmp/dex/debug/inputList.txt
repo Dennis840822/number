@@ -1,0 +1,5 @@
+C:\Users\Admin\AndroidStudioProjects\homework42\app\build\intermediates\classes\debug
+C:\Users\Admin\AndroidStudioProjects\homework42\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.3-0210c50efe0ca118333d7842f322987f8f5a3a01.jar
+C:\Users\Admin\AndroidStudioProjects\homework42\app\build\intermediates\pre-dexed\debug\classes-8321356630d14eebdbe0e06fd65c94a8994a8afa.jar
+C:\Users\Admin\AndroidStudioProjects\homework42\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-d817c4c5018f3e549b2d922865ff31464a26ccc2.jar
+C:\Users\Admin\AndroidStudioProjects\homework42\app\build\intermediates\pre-dexed\debug\Parse-1.7.1-5c9d30a0b1c2ce270fafcef175f568a3d74a7528.jar
